@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm very disciplinated<br>I'm amazing<br>I'm beauty
+I'm very disciplinated<br>I'm amazing<br>I'm web developer
 
 
 ## 🌐 Socials:
