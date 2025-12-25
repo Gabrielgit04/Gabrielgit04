@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am Gabriel Hernandez, Student of Systems Engineering and Web Developer. I have knowledge of languages like Python, PHP, Javascript, Kotlin and database management systems like MySql, and I'm also technologies like Git and Docker.
+My name is Gabriel Hernandez. I am currently pursuing a degree in Systems Engineering and working as a Web Developer. I have hands-on experience with programming languages including Python, PHP, JavaScript, and Kotlin, and I am skilled in managing databases using MySQL. Additionally, I am proficient with development tools such as Git and Docker.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/gabrielmoises.hernandezpina/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hernandez_gabriel_04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielmoises1202@gmail.com) 
